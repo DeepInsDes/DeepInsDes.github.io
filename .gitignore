@@ -3,4 +3,4 @@ Template
 .hugo_build.lock
 .vscode/
 .DS_Store
-DeepInsDes/public/
+public/
