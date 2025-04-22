@@ -50,3 +50,6 @@ params:
 caches:
   images:
     dir: :cacheDir/images
+
+search:
+    enable: false

@@ -1,4 +1,9 @@
 ---
-date: '2025-04-22T03:29:13-06:00'
-title: ''
+title: 'Deep Instructional Design'
 ---
+![](/images/DeepLogoBig.png)
+
+# [Works](/works)
+# [References](/ref)
+# [Influences](/inf)
+# [About](/about)
