@@ -13,6 +13,28 @@ outputs:
   home: [HTML]
   page: [HTML]
 
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: "Deep Instructional Design"
+
+markup:
+  highlight:
+    noClasses: false
+  # goldmark:
+  #   renderer:
+  #     unsafe: true
+  #   extensions:
+  #     definitionList:
+  #       delimiters:
+  #         block: [['\[', '\]'], ['$$', '$$']]
+  #         inline: [['\(', '\)']]
+  #       enable: true
+
+enableInlineShortcodes: true
+
 menu:
   main:
     - identifier: works
@@ -47,9 +69,31 @@ params:
   footer:
     enable: false
 
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+
+  displayUpdatedDate: false
+
+  search:
+    enable: false
+
+  editURL:
+    enable: false
+
+  highlight:
+    copy:
+      enable: false
+
+  comments:
+    enable: false
+
+
 caches:
   images:
     dir: :cacheDir/images
-
-search:
-    enable: false
