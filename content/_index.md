@@ -2,24 +2,22 @@
 title: 'Deep Instructional Design'
 ---
 
-<div class="home-split">
-<div class="home-half">
-<div class="home-name">
-
+<div class="home-center">
+ 
 # Noah Dodero
-
-</div>
 
 ![](/images/DeepLogoBig.png)
 
-</div>
-<div class="home-half">
-<div class="home-links">
+
+<br>
+
+<hr>
+<br>
 
 # [Works](/works)
 # [Influences](/inf)
 # [References](/ref)
 # [About](/about)
 
-</div>
+
 </div>
