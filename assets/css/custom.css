@@ -4,6 +4,24 @@ nav {
   color: #000;
 }
 
+
+.home-split {
+  display: flex;
+}
+
+.home-half {
+  flex: 50%;
+}
+
+.home-name h1{
+  text-align: left;
+}
+
+.home-links h1{
+  font-size: var(--hx-text-3xl);
+    margin-top: calc(var(--hx-spacing) * 2)
+}
+
 .content {
   color: #fff;
 }
