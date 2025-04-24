@@ -8,6 +8,20 @@ nav {
   color: #fff;
 }
 
+h1, h2, h4 {
+  text-align: center;
+}
+
+hr {
+  height: 5px;
+  color: #CFB87C
+}
+
+.centered-video {
+  width: 50%;
+  margin: auto;
+}
+
 .hamburger-menu {
   color: #000;
 }
