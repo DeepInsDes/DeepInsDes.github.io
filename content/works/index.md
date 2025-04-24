@@ -2,8 +2,9 @@
 title: Works
 ---
 ## Unchained At Last Learning Design Solution Proposal
-This Project Solution Proposal reflects my fluency in applying Learning Design principles to a prospective project that includes learner analysis, storyboarding, lesson format proposals, evaluation methods, and polished, professional design aesthetics. It uses a combination of Design Thinking and ADDIE instructional design models and retains an accessible format throughout the proposal documents (Linked below video).
-
+This Project Solution Proposal reflects my fluency in applying Learning Design principles to a prospective project that includes learner analysis, storyboarding, lesson format proposals, evaluation methods, and polished, professional design aesthetics. It uses a combination of Design Thinking and ADDIE instructional design models and retains an accessible format throughout the proposal documents (Linked below video).   
+   
+<br>
 {{< youtube n8hwRiyrNRM >}}
 
 <br>
@@ -50,6 +51,7 @@ This lesson examines the ways critical digital pedagogy (CDP) and microlearning 
 ## What is Microlearning? A Short Lesson
 This course was created to provide new or unfamiliar learners with a short primer on the concept of microlearning. It was designed specifically with mobile platforms in mind, which is itself one main characteristic of microlearning. The short, gamified nature was also chosen intentionally to help the learner experience other main characteristics of a microlearning lesson.
 
+<br>
 <div class="centered-video">
 {{< video src="no-audio" >}}
 </div>
