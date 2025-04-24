@@ -1,3 +1,71 @@
-.nav-container {
-  background-color: #CFB87C;
+nav {
+  background: #D0BA80;
+  background: linear-gradient(180deg, rgba(208, 186, 128, 1) 0%, rgba(242, 230, 201, 1) 50%, rgba(248, 242, 228, 1) 100%);
+  color: #000;
+}
+
+.content {
+  color: #fff;
+}
+
+h1, h2, h4 {
+  text-align: center;
+}
+
+hr {
+  height: 5px;
+  color: #CFB87C
+}
+
+.centered-video {
+  width: 50%;
+  margin: auto;
+}
+
+.hamburger-menu {
+  color: #000;
+}
+.sidebar-container {
+  color: #ccc
+}
+
+.hextra-scrollbar, .hextra-scrollbar * {
+  background: #434343;
+  color: #ffffff;
+}
+body {
+  background: #434343;
+  color: #ffffff;
+
+  /* .hx\:text-gray-50 {
+    color: #000;
+  }
+  .hx\:text-gray-100 {
+    color: #000;
+  }
+  .hx\:text-gray-200 {
+    color: #000;
+  }
+  .hx\:text-gray-300 {
+    color: #000;
+  }
+  .hx\:text-gray-400 {
+    color: #000;
+  }
+  .hx\:text-gray-500 {
+    color: #000;
+  }
+  .hx\:text-gray-600 {
+    color: #000;
+  }
+  .hx\:text-gray-700 {
+    color: #000;
+  }
+  .hx\:text-gray-800 {
+    color: #000;
+  }
+  .hx\:text-gray-900 {
+    color: #000;
+  } */
+  
 }
