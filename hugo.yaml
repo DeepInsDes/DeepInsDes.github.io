@@ -56,8 +56,8 @@ menu:
 
 params:
   navbar:
-    displayTitle: false
-    displayLogo: true
+    displayTitle: true
+    displayLogo: false
     logo:
       path: images/DeepLogoBig.png
       # width: 40

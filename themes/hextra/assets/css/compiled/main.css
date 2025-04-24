@@ -2635,7 +2635,6 @@ body {
     font-weight: var(--hx-font-weight-bold);
     --tw-tracking: var(--hx-tracking-tight);
     letter-spacing: var(--hx-tracking-tight);
-    color: var(--hx-color-slate-900);
     &:where(.dark, .dark *) {
       color: var(--hx-color-slate-100);
     }
@@ -2652,7 +2651,6 @@ body {
     font-weight: var(--hx-font-weight-semibold);
     --tw-tracking: var(--hx-tracking-tight);
     letter-spacing: var(--hx-tracking-tight);
-    color: var(--hx-color-slate-900);
     @media (prefers-contrast: more) {
       border-color: var(--hx-color-neutral-400);
     }
@@ -2676,7 +2674,6 @@ body {
     font-weight: var(--hx-font-weight-semibold);
     --tw-tracking: var(--hx-tracking-tight);
     letter-spacing: var(--hx-tracking-tight);
-    color: var(--hx-color-slate-900);
     &:where(.dark, .dark *) {
       color: var(--hx-color-slate-100);
     }
@@ -2689,7 +2686,6 @@ body {
     font-weight: var(--hx-font-weight-semibold);
     --tw-tracking: var(--hx-tracking-tight);
     letter-spacing: var(--hx-tracking-tight);
-    color: var(--hx-color-slate-900);
     &:where(.dark, .dark *) {
       color: var(--hx-color-slate-100);
     }
@@ -2702,7 +2698,6 @@ body {
     font-weight: var(--hx-font-weight-semibold);
     --tw-tracking: var(--hx-tracking-tight);
     letter-spacing: var(--hx-tracking-tight);
-    color: var(--hx-color-slate-900);
     &:where(.dark, .dark *) {
       color: var(--hx-color-slate-100);
     }
@@ -2715,7 +2710,6 @@ body {
     font-weight: var(--hx-font-weight-semibold);
     --tw-tracking: var(--hx-tracking-tight);
     letter-spacing: var(--hx-tracking-tight);
-    color: var(--hx-color-slate-900);
     &:where(.dark, .dark *) {
       color: var(--hx-color-slate-100);
     }

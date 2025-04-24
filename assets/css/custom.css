@@ -1,6 +1,57 @@
 nav {
-  background-color: #CFB87C;
-  background: #CFB87C;
+  background: #D0BA80;
+  background: linear-gradient(180deg, rgba(208, 186, 128, 1) 0%, rgba(242, 230, 201, 1) 50%, rgba(248, 242, 228, 1) 100%);
   color: #000;
-  backdrop-filter: none;
+}
+
+.content {
+  color: #fff;
+}
+
+.hamburger-menu {
+  color: #000;
+}
+.sidebar-container {
+  color: #ccc
+}
+
+.hextra-scrollbar, .hextra-scrollbar * {
+  background: #434343;
+  color: #ffffff;
+}
+body {
+  background: #434343;
+  color: #ffffff;
+
+  /* .hx\:text-gray-50 {
+    color: #000;
+  }
+  .hx\:text-gray-100 {
+    color: #000;
+  }
+  .hx\:text-gray-200 {
+    color: #000;
+  }
+  .hx\:text-gray-300 {
+    color: #000;
+  }
+  .hx\:text-gray-400 {
+    color: #000;
+  }
+  .hx\:text-gray-500 {
+    color: #000;
+  }
+  .hx\:text-gray-600 {
+    color: #000;
+  }
+  .hx\:text-gray-700 {
+    color: #000;
+  }
+  .hx\:text-gray-800 {
+    color: #000;
+  }
+  .hx\:text-gray-900 {
+    color: #000;
+  } */
+  
 }
