@@ -1,3 +1,6 @@
-.nav-container {
+nav {
   background-color: #CFB87C;
+  background: #CFB87C;
+  color: #000;
+  backdrop-filter: none;
 }

@@ -23,9 +23,9 @@ languages:
 markup:
   highlight:
     noClasses: false
-  # goldmark:
-  #   renderer:
-  #     unsafe: true
+  goldmark:
+    renderer:
+      unsafe: true
   #   extensions:
   #     definitionList:
   #       delimiters:
@@ -44,11 +44,11 @@ menu:
     - identifier: references
       name: references
       pageRef: /ref
-      weight: 2
+      weight: 3
     - identifier: influences
       name: influences
       pageRef: /inf
-      weight: 3
+      weight: 2
     - identifier: about
       name: about
       pageRef: /about
@@ -59,10 +59,9 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
+      path: images/DeepLogoBig.png
       # width: 40
-      # height: 20
+      # height: full
       # link: /
     width: wide
 

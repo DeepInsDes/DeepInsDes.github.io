@@ -1,10 +1,14 @@
+---
+title: Works
+---
+
+
 ## Unchained At Last Learning Design Solution Proposal
 This Project Solution Proposal reflects my fluency in applying Learning Design principles to a prospective project that includes learner analysis, storyboarding, lesson format proposals, evaluation methods, and polished, professional design aesthetics. It uses a combination of Design Thinking and ADDIE instructional design models and retains an accessible format throughout the proposal documents (Linked below video).
 
 {{< youtube n8hwRiyrNRM >}}
 
-# 
----
+
 
 ## CTS Classroom Control Quickstart Guides
 These videos were commissioned by the Director of Classroom Technology Services at CU Denver/Anschutz and were deployed across over 60-, 75- and 200- seat classrooms for use by the Faculty, Staff and Students on both campuses. They represent an analyzed need for quick, visually engaging, and user-accessible video job-aids. Voice narration was specifically NOT included as other materials were made available for those with auditory or visual accessibility needs.
