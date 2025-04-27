@@ -1,6 +1,7 @@
 ---
 title: 'Deep Instructional Design'
 width: full
+nav: false
 ---
 
 <div class="home-center">
