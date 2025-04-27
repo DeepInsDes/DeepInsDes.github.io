@@ -4,6 +4,14 @@ nav {
   color: #000;
 }
 
+.nav-nope {
+  display: none;
+}
+
+.hero-img {
+  max-width: 36rem;
+}
+
 .home-center {
   text-align: center;
 }

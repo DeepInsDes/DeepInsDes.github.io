@@ -7,7 +7,7 @@ width: full
  
 # Noah Dodero
 
-![](/images/DeepLogoBig.png)
+![](/images/DeepLogoMed.png)
 
 
 <br>
