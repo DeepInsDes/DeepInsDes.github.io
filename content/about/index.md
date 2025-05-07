@@ -3,19 +3,25 @@ title: About
 toc: false
 weight: 4
 ---
+## About
 
-Hextra is designed to be a simple, fast, and flexible theme for building modern static websites. It is especially well-suited for documentation websites but can also be used for various types of sites, such as blogs, portfolios, and more.
+<br>
+<div class="home-center">
 
-Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
+I am a creator. I am a technologist. I am a listener.    
+I bridge gaps, and I reconcile theory with practice.  
+I strive to produce excellent work
+<br>
+<br>
 
-Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
+<hr>
+<br>
+<br> 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2015822328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/noahdeep" title="Noah Deep" target="_blank" style="color: #cccccc; text-decoration: none;">Noah Deep</a> · <a href="https://soundcloud.com/noahdeep/sets/professional-musings" title="Professional Musings" target="_blank" style="color: #cccccc; text-decoration: none;">Professional Musings</a></div>
 
-## Credits
+<br>
+<br>
+...and my professional qualifications.
 
-Hextra cannot be built without the following tools and inspirations:
-
-- [Hugo](https://gohugo.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Heroicons](https://heroicons.com/)
-- [Nextra](https://nextra.vercel.app/)
-- [Next.js](https://nextjs.org/)
+## CV TBD
+</div>
