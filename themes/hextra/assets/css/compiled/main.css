@@ -1,4 +1,5 @@
 /*! tailwindcss v4.0.17 | MIT License | https://tailwindcss.com */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @layer theme, base, components, utilities;
 @layer theme {
   :root, :host {
@@ -3782,22 +3783,36 @@ article details > summary {
     color: var(--hx-color-primary-600);
   }
 }
-.sidebar-container {
-  position: fixed;
-  top: calc(var(--hx-spacing) * 0);
-  bottom: calc(var(--hx-spacing) * 0);
-  z-index: 15;
-  width: 100%;
-  overscroll-behavior: contain;
-  background-color: var(--hx-color-white);
-  padding-top: calc(var(--navbar-height));
-  &:where(.dark, .dark *) {
-    background-color: var(--hx-color-dark);
+@media (max-width: 48rem) {
+  .sidebar-container {
+    position: fixed;
+    top: calc(var(--hx-spacing) * 0);
+    bottom: calc(var(--hx-spacing) * 0);
+    z-index: 15;
+    width: 100%;
+    overscroll-behavior: contain;
+    background-color: var(--hx-color-white);
+    padding-top: calc(var(--navbar-height));
+    &:where(.dark, .dark *) {
+      background-color: var(--hx-color-dark);
+    }
+    transition: transform 0.4s cubic-bezier(0.52, 0.16, 0.04, 1);
+    will-change: transform, opacity;
+    contain: layout style;
+    backface-visibility: hidden;
   }
-  transition: transform 0.4s cubic-bezier(0.52, 0.16, 0.04, 1);
-  will-change: transform, opacity;
-  contain: layout style;
-  backface-visibility: hidden;
+}
+.sidebar-container {
+  li > div {
+    height: calc(var(--hx-spacing) * 0);
+  }
+  li.open > div {
+    height: auto;
+    padding-top: calc(var(--hx-spacing) * 1);
+  }
+  li.open > a > span > svg > path {
+    rotate: 90deg;
+  }
 }
 nav {
   .search-wrapper {

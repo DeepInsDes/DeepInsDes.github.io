@@ -4,6 +4,10 @@ nav {
   color: #000;
 }
 
+/* .content {
+  font-family: Roboto, sans-serif;
+} */
+
 .nav-nope {
   display: none;
 }
@@ -15,6 +19,10 @@ nav {
 .home-center {
   text-align: center;
 }
+
+h1 a:visited { color: green; }
+
+
 .home-split {
   display: flex;
 }
