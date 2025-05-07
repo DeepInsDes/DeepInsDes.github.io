@@ -28,5 +28,5 @@ my personal musings...
 ## CV TBD
 
 
-I believe it's important to know more about the person than just the portfolio. I hope you find this illuminating."
+I believe it's important to know more about the person than just the portfolio. I hope you find this illuminating.
 </div>
