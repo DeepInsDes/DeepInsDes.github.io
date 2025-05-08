@@ -17,7 +17,7 @@ This Project Solution Proposal reflects my fluency in applying Learning Design p
 
 
 ## CTS Classroom Control Quickstart Guides
-These videos were commissioned by the Director of Classroom Technology Services at CU Denver/Anschutz and were deployed across over 60-, 75- and 200- seat classrooms for use by the Faculty, Staff and Students on both campuses. They represent an analyzed need for quick, visually engaging, and user-accessible video job-aids. Voice narration was specifically NOT included as other materials were made available for those with auditory or visual accessibility needs.
+These videos were commissioned by the Director of Classroom Technology Services at CU Denver/Anschutz and were deployed across 60-, 75- and 200- seat classrooms for use by the Faculty, Staff and Students on both campuses. They represent an analyzed need for quick, visually engaging, and user-focused video job-aids. Voice narration was specifically NOT included as other materials were made available for those with auditory or visual accessibility needs.
 
 #### 60 Seat
 {{< youtube 72ZZHzcgOo >}}
@@ -43,8 +43,9 @@ This lesson examines the ways critical digital pedagogy (CDP) and microlearning 
 
 <div class="home-center">
 
-### [Embedded Microlearning](/CDP)
-
+<a href="/CDP">
+  <img src="/images/ss-CDP.png">
+</a>
 </div>
 <br>
 
