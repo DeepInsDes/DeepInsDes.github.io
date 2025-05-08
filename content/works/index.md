@@ -41,8 +41,11 @@ These videos were commissioned by the Director of Classroom Technology Services 
 ## Microlearning as Disruptive Education
 This lesson examines the ways critical digital pedagogy (CDP) and microlearning interact, focusing on correlations, links, and how they can both inform and create disruptive educational practices. It was created using Articulate Rise, a popular web-based e-learning authoring tool designed for creating simple, responsive courses that are easy to use and accessible on various devices. It was designed to focus on ways that the current educational trend of microlearning could be used for, and viewed through the lens of, disruptive education.
 
-[Embedded Microlearning](/CDP)
+<div class="home-center">
 
+### [Embedded Microlearning](/CDP)
+
+</div>
 <br>
 
 <hr>
