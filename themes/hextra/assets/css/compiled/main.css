@@ -2723,7 +2723,6 @@ body {
   }
   :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
     color: var(--hx-color-primary-600);
-    text-decoration-line: underline;
     text-decoration-thickness: from-font;
   }
   :where(blockquote):not(:where([class~=not-prose],[class~=not-prose] *)) {

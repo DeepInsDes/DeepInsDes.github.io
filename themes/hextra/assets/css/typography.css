@@ -21,7 +21,7 @@
     @apply hx:mt-6 hx:leading-7 hx:first:mt-0;
   }
   :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    @apply hx:text-primary-600 hx:underline hx:decoration-from-font;
+    @apply hx:text-primary-600 hx:decoration-from-font;
   }
   :where(blockquote):not(:where([class~=not-prose],[class~=not-prose] *)) {
     @apply hx:mt-6 hx:italic hx:first:mt-0 hx:ltr:border-l-2 hx:ltr:pl-6 hx:rtl:border-r-2 hx:rtl:pr-6;
