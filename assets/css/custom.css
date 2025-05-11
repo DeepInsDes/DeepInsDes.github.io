@@ -8,6 +8,9 @@ nav {
   font-family: Roboto, sans-serif;
 } */
 
+.blockquote {
+  color: #ffffff
+}
 .nav-nope {
   display: none;
 }

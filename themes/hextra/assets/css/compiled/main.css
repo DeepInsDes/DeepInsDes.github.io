@@ -2728,8 +2728,6 @@ body {
   }
   :where(blockquote):not(:where([class~=not-prose],[class~=not-prose] *)) {
     margin-top: calc(var(--hx-spacing) * 6);
-    border-color: var(--hx-color-gray-300);
-    color: var(--hx-color-gray-700);
     font-style: italic;
     &:first-child {
       margin-top: calc(var(--hx-spacing) * 0);
@@ -2747,12 +2745,6 @@ body {
     }
     &:where(:dir(rtl), [dir="rtl"], [dir="rtl"] *) {
       padding-right: calc(var(--hx-spacing) * 6);
-    }
-    &:where(.dark, .dark *) {
-      border-color: var(--hx-color-gray-700);
-    }
-    &:where(.dark, .dark *) {
-      color: var(--hx-color-gray-400);
     }
   }
   :where(pre):not(:where(.hextra-code-block pre, [class~=not-prose],[class~=not-prose] *)) {
