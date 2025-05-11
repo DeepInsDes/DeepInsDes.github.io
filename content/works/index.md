@@ -1,16 +1,22 @@
 ---
 title: Works
 ---
-## Unchained At Last Learning Design Solution Proposal
-This Project Solution Proposal reflects my fluency in applying Learning Design principles to a prospective project that includes learner analysis, storyboarding, lesson format proposals, evaluation methods, and polished, professional design aesthetics. It uses a combination of Design Thinking and ADDIE instructional design models and retains an accessible format throughout the proposal documents (Linked below video).   
+## Unchained At Last Learning Design Solution
+This Project Solution reflects my fluency in applying Learning Design principles to a prospective project that includes learner analysis, storyboarding, lesson format, evaluation methods, and polished, professional design aesthetics. It uses a combination of Design Thinking and ADDIE instructional design models and retains an accessible format throughout the design solution documents (Linked below video).   
    
 <br>
 {{< youtube n8hwRiyrNRM >}}
 
 <br>
+
+{{< pdf "/doc/UaL-DesignDocument.pdf" >}}
+<br>
+{{< pdf "/doc/UaL-EvaluationPlan.pdf" >}}
+<br>
+{{< pdf "/doc/UaL-SolutionStoryboard.pdf" >}}
 <br>
 <br>
-<br>
+
 
 <hr>
 <br>
